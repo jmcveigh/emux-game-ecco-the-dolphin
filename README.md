@@ -1,6 +1,11 @@
 # win_x64-game-ecco-the-dolphin
 This is the game Ecco The Dolphin, Defender of the Future for win_x64.
 
+## Additional Requirements
+Please download this data file set from Jason McVeigh's homepage. Please download this data file set then extract to the application folder. These files are stored outside of GitHub due to GitHub's 100MB filesize limit.
+
+[ecco-the-dolphin-roms.zip from Jason McVeigh's homepage](http://jmcveigh.gsc-orillia.org/downloads-ecco-the-dolphin-roms.zip)
+
 ## Ecco the Dolphin
 ### Defender of the Future
 
