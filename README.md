@@ -1,10 +1,24 @@
-# win_x64-game-ecco-the-dolphin
+![In-Game Screen Shot 01]# win_x64-game-ecco-the-dolphin
 This is the game Ecco The Dolphin, Defender of the Future for win_x64.
 
 ## Additional Requirements
 Please download this data file set from Jason McVeigh's homepage. Please download this data file set then extract to the application folder. These files are stored outside of GitHub due to GitHub's 100MB filesize limit.
 
 [ecco-the-dolphin-roms.zip from Jason McVeigh's homepage](http://jmcveigh.gsc-orillia.org/downloads/ecco-the-dolphin-roms.zip)
+
+## Media
+### Cover Art
+- ![Sega Dreamcast Box Art, Front](http://i.imgur.com/FBRQMla.jpg)
+- ![Sega Dreamcast Box Art, Back](http://i.imgur.com/FBRQMla.jpg)
+
+### In-Game Screen Shots
+- ![In-Game Screen Shot 01](http://i.imgur.com/oiJbaJm.jpg)
+- ![In-Game Screen Shot 02](http://i.imgur.com/KtvouHu.jpg)
+- ![In-Game Screen Shot 03](http://i.imgur.com/HfONkAh.jpg)
+- ![In-Game Screen Shot 04](http://i.imgur.com/uYcWcI3.jpg)
+- ![In-Game Screen Shot 05](http://i.imgur.com/A90l5g2.jpg)
+- ![In-Game Screen Shot 06](http://i.imgur.com/6MwBm8d.jpg)
+- ![In-Game Screen Shot 07](http://i.imgur.com/sxOaTfQ.jpg)
 
 ## Ecco the Dolphin
 ### Defender of the Future
