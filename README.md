@@ -1,4 +1,4 @@
-![In-Game Screen Shot 01]# win_x64-game-ecco-the-dolphin
+# win_x64-game-ecco-the-dolphin
 This is the game Ecco The Dolphin, Defender of the Future for win_x64.
 
 ## Additional Requirements
