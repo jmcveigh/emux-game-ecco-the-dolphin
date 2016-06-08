@@ -1,4 +1,4 @@
-# win_x64-game-ecco-the-dolphin
+# emux-game-ecco-the-dolphin
 This is the game Ecco The Dolphin, Defender of the Future for win_x64.
 
 ## Additional Requirements
@@ -26,8 +26,6 @@ The player was given this background information before being thrown into the ga
 
 However, a Foe ship caused a rip in the time continuum and headed back in time in order to stop dolphins and humans from uniting into one society. Ecco was caught in the wake of the time vortex, and witnessed the Foe stultify the Noble Dolphin Traits of Intelligence, Ambition, Compassion, Wisdom and Humility. Ecco used the Ancient Power of Metamorphosis to become a flying Foe unit and destroy the ship; this scattered the globes containing the Noble Traits across history. With the traits gone, however, the future was already changed. Dolphins became weak and gullible; humans enslaved and exploited them. When Ecco returned to 'his' present, 500 years after the Foe attack, dolphins were barely sentient animals, and humans had already long been extinct.
 
-# Jason McVeigh (Zenbae)
-## Please write jmcveigh@outlook.com for email support
-### I love what I do and I hope you do too!
+Made with ♥ by [Jason McVeigh](mailto:jmcveigh@outlook.com) of General Software Contracting
 
-[This application is released under the Creative Commons Zero 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/)
+_I ♥ what I do and I hope you do too!_
