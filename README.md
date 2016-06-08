@@ -26,6 +26,8 @@ The player was given this background information before being thrown into the ga
 
 However, a Foe ship caused a rip in the time continuum and headed back in time in order to stop dolphins and humans from uniting into one society. Ecco was caught in the wake of the time vortex, and witnessed the Foe stultify the Noble Dolphin Traits of Intelligence, Ambition, Compassion, Wisdom and Humility. Ecco used the Ancient Power of Metamorphosis to become a flying Foe unit and destroy the ship; this scattered the globes containing the Noble Traits across history. With the traits gone, however, the future was already changed. Dolphins became weak and gullible; humans enslaved and exploited them. When Ecco returned to 'his' present, 500 years after the Foe attack, dolphins were barely sentient animals, and humans had already long been extinct.
 
+This is a completed works, in part, by Jason McVeigh of General Software Contracting and the Linux User Group in Orillia, ON, CA.
+
 Made with ♥ by [Jason McVeigh](mailto:jmcveigh@outlook.com) of General Software Contracting
 
 _I ♥ what I do and I hope you do too!_
