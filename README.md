@@ -8,7 +8,6 @@ Please download this data file set from Jason McVeigh's homepage. Please downloa
 
 ## Pictures
 ![Sega Dreamcast Box Art, Front](http://i.imgur.com/FBRQMla.jpg)
-![Sega Dreamcast Box Art, Back](http://i.imgur.com/FBRQMla.jpg)
 ![In-Game Screen Shot 01](http://i.imgur.com/oiJbaJm.jpg)
 ![In-Game Screen Shot 02](http://i.imgur.com/KtvouHu.jpg)
 ![In-Game Screen Shot 03](http://i.imgur.com/HfONkAh.jpg)
